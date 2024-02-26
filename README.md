@@ -1,85 +1,45 @@
-[![Youtube][youtube-shield]][youtube-url]
-[![Facebook][facebook-shield]][facebook-group-url]
+# Framer Motion: A Powerful Animation Library for React
 
-<!-- PROJECT LOGO -->
-<br />
- <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/73503432?v=4" alt="Logo" width="80" height="80" />
-    <h3 align="center "><a href="https://learnwithsumit.com/rnext/courses/rnext/reactive-accelerator-course-intro" target="_blank" >REACTIVE ACCELERATOR - MODULE 5 - LESSON 7</a></h3>
-</p>
+Looking for a powerful and flexible animation library for React? Look no further than **Framer Motion**.
 
-<!-- TABLE OF CONTENTS -->
+In this project, you'll find 8 captivating examples:
 
-## ![tableOfContent][tableofcontent-shield] Table of Contents
+1. **Animated Red Circle:** Starting with an opacity of 0 and reduced size, watch as it smoothly transitions to full visibility and size over one second.
 
-| CODE BASE                    | CODE RUN                   | CONTACT                    |
-| ---------------------------- | -------------------------- | -------------------------- |
-| [Get Project](#-get-project) | [How to run](#-how-to-run) | [Contact us](#-contact-us) |
+2. **Blue Square to Circular Marvel:** Witness the transformation of a blue square into a mesmerizing circle using border-radius, rotation, and scale to create a visually stunning effect.
 
-<br>
+3. **Dynamic Button Delight:** Experience buttons that grow on hover and shrink to half their size when clicked, providing a delightful interactive experience.
 
-<!-- GET HTML TEMPLATE -->
+4. **ChatGPT Animation:** Inspired by dynamic movements, this animation captivates with its engaging and visually striking appearance.
 
-## ![htmlIcon][htmlicon-shield] Get Project
+5. **Transition Magic:** Text gracefully glides in from the left, adding an elegant touch to your UI as if gently pushed into view.
 
-In this tutorial, immerse yourself in the world of animation in React with Framer Motion. Discover how to bring your UI components to life with fluid and expressive animations using the Framer Motion library. Learn how to create stunning animations for various user interactions, transitions, and page layouts. Follow step-by-step instructions to integrate Framer Motion into your React projects, define animations, and customize motion properties with ease. Explore practical examples and best practices to elevate the visual appeal and interactivity of your React applications. For hands-on experience, follow the attached codebase download process, and consult additional documentation in the reference section to master animation in React with Framer Motion.
+6. **Enchanting Counter Animation:** Experience the magic of incrementing numbers, creating a seamless illusion of movement and enchantment.
 
-<!-- HOW TO RUN -->
+7. **Discover More:** Explore two additional animations, each offering its own unique charm and intrigue.
 
-## ![rocketIcon][rocketicon-shield] How to run
+## Resources and Links
 
-Please follow the below instructions to run this branch in your machine:
+- **Live Site:** [Framer Motion Variants](https://framer-motion-silk.vercel.app/variants)
+- **Code & Docs:** [GitHub Repository](https://github.com/Swapno963/Framer_Motion)
+- **Framer Motion:** [Official Website](https://www.framer.com/motion/)
 
-1. Login to the GitHub account on which you have been granted access to this repository. If you have purchased the course but didn't get the access to this repository, please contact our support team. You will find contact details below.
+## Getting Started
 
-2. Clone this repository -
-   ```sh
-   git clone https://github.com/Learn-with-Sumit/rnext.git
-   ```
-3. Go to the cloned project directory
-   ```sh
-   cd rnext
-   ```
-4. Checkout/switch to branch 5.7
-   ```sh
-   git checkout 5.7
-   ```
-5. Just run this command to install node dependencies
-   ```sh
-   npm i
-   ```
-6. Just run this command
-   ```sh
-   npm run dev
-   ```
+1. **Clone this repository:**
+    ```sh
+    git clone https://github.com/Swapno963/Framer_Motion.git
+    ```
+2. **Navigate to the cloned project directory:**
+    ```sh
+    cd rnext
+    ```
+3. **Install dependencies:**
+    ```sh
+    npm i
+    ```
+4. **Start the project:**
+    ```sh
+    npm run dev
+    ```
 
-<br>
-
-<br/>
-<!-- CONTACT  -->
-
-## ![contactIcon][contacticon-shield] Contact us
-
-[![Facebook][facebook-shield]][facebook-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![mail][mail-shield]][mail-url]
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=youtube&color=555&logoColor=white
-[youtube-url]: https://youtube.com/LearnwithSumit
-[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[facebook-url]: https://facebook.com/letslearnwithsumit
-[facebook-group-url]: https://facebook.com/groups/learnwithsumit
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[instagram-url]: https://instagram.com/learnwithsumit
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/company/learnwithsumit
-[thumbnail-shield]: https://i.ibb.co/d6hxnvd/Screenshot-50.png
-[mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-support%40learnwithsumit.com-lightgray
-[mail-url]: mailto:support@learnwithsumit.com
-[tableofcontent-shield]: https://img.icons8.com/external-flatart-icons-flat-flatarticons/28/undefined/external-direction-business-and-teamwork-flatart-icons-flat-flatarticons.png
-[htmlicon-shield]: https://img.icons8.com/external-flaticons-flat-flat-icons/28/undefined/external-html-computer-programming-flaticons-flat-flat-icons.png
-[rocketicon-shield]: https://img.icons8.com/?size=24&id=bY5t0noHcfXn&format=png
-[contacticon-shield]: https://img.icons8.com/external-flaticons-lineal-color-flat-icons/28/undefined/external-support-communication-media-flaticons-lineal-color-flat-icons.png
